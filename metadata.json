@@ -1,0 +1,6 @@
+{
+  "name": "Grace Harvest Academy Timetable Scheduler",
+  "description": "Comprehensive Grace Harvest Academy timetable scheduler for Forms 1-6 with teacher preferences, swap time tools, multi-subject teacher qualifications, sports management, and print-ready formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
